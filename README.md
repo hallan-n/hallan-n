@@ -1,18 +1,12 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-
 ### 👋 Olá, meu nome é Hallan Neves
 <p>Explorador no universo da programação!</p>
-
 
 - 🎓 Graduando em **Analise e Desenvolvimento de Sistemas**
 - 🎓 Formado em **Técnico em informática**
 - 💼 Trabalhando como **Desenvolvedor na <a href="https://www.textecnologia.com.br/">TEx</a>**
-
-
 <hr>
-
-
 
 ### 🚀 Principais tecnologias
   
@@ -33,19 +27,20 @@
 <hr>
 
 ### 🛠️Ferramentas extras
+
 <div>
   <img align="center" alt="Hállan-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Hállan-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
   <img align="center" alt="Hállan-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" alt="Hállan-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
-
 <hr>
 
 ### 📊 Estatísticas
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hallan-n&layout=compact&langs_count=8&theme=tokyonight"/>
 <hr>
+
 
 ### 📱 Minhas redes:
 
