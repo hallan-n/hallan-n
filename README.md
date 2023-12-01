@@ -6,7 +6,21 @@
 - 🎓 Graduando em **Analise e Desenvolvimento de Sistemas**
 - 🎓 Formado em **Técnico em informática**
 - 💼 Trabalhando como **Desenvolvedor na <a href="https://www.textecnologia.com.br/">TEx</a>**
+
+<br>
+<p align="left">
+  <a href="https://www.linkedin.com/in/h%C3%A1llan-neves-a9b010208/" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=/" alt="LinkedIn"/></a>
+
+  <a href="mailto:hallanneves01@gmail.com" title="Gmail">
+  <img src="https://img.shields.io/badge/-gmail-f00?style=flat-square&labelColor=f00&logo=gmail&logoColor=white&link=" alt="WhatsApp"/></a>
+  <a href="https://www.instagram.com/hallan.matias/" title="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=" alt="Instagram"/>
+  </a>
+</p>
+
 <hr>
+
 
 ### 🚀 Principais tecnologias
   
@@ -39,18 +53,3 @@
 ### 📊 Estatísticas
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hallan-n&layout=compact&langs_count=8&theme=tokyonight"/>
-<hr>
-
-
-### 📱 Minhas redes:
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/h%C3%A1llan-neves-a9b010208/" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=/" alt="LinkedIn"/></a>
-
-  <a href="mailto:hallanneves01@gmail.com" title="Gmail">
-  <img src="https://img.shields.io/badge/-gmail-f00?style=flat-square&labelColor=f00&logo=gmail&logoColor=white&link=" alt="WhatsApp"/></a>
-  <a href="https://www.instagram.com/hallan.matias/" title="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=" alt="Instagram"/>
-  </a>
-</p>
