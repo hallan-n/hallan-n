@@ -8,24 +8,8 @@
 - 🎓 Formado em **Técnico em informática**
 - 💼 Trabalhando como **Desenvolvedor na <a href="https://www.textecnologia.com.br/">TEx</a>**
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hallan-n&layout=compact&langs_count=8&theme=tokyonight"/> </a
-</div>
 
-## Contacts
-<div>
-  <a href="https://www.instagram.com/hallan.matias/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
-  <a href="mailto:hallanneves01@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.linkedin.com/in/h%C3%A1llan-neves-a9b010208/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>  
- 
-  
-</div>
+
 
 
 
@@ -59,3 +43,24 @@
   
 
 </div>
+<br>
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hallan-n&layout=compact&langs_count=8&theme=tokyonight"/> </a
+</div>
+
+## 📱 Minhas redes:
+
+
+
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/h%C3%A1llan-neves-a9b010208/" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=/" alt="LinkedIn"/></a>
+
+  <a href="mailto:hallanneves01@gmail.com" title="Gmail">
+  <img src="https://img.shields.io/badge/-gmail-f00?style=flat-square&labelColor=f00&logo=gmail&logoColor=white&link=" alt="WhatsApp"/></a>
+
+  <a href="https://www.instagram.com/hallan.matias/" title="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=" alt="Instagram"/>
+  </a>
+</p>
