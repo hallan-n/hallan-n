@@ -1,4 +1,12 @@
-## Hi, I'm Hallan Neves
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
+
+## 👋 Olá, meu nome é Hallan Neves
+<h3>Explorador no universo da programação!</h3>
+
+- 🎓 Graduando em **Analise e Desenvolvimento de Sistemas**
+- 🎓 Formado em **Técnico em informática**
+- 💼 Trabalhando como **Desenvolvedor na <a href="https://www.textecnologia.com.br/">TEx</a>**
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hallan-n&layout=compact&langs_count=8&theme=tokyonight"/> </a
