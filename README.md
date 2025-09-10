@@ -3,9 +3,9 @@
 ### 👋 Olá, meu nome é Hallan Neves
 <p>Explorador no universo da programação!</p>
 
-- 🎓 Graduando em **Analise e Desenvolvimento de Sistemas**
+- 🎓 Formado em **Analise e Desenvolvimento de Sistemas**
 - 🎓 Formado em **Técnico em informática**
-- 💼 Trabalhando como **Desenvolvedor na <a href="https://www.textecnologia.com.br/">TEx</a>**
+- 💼 Trabalhando como **Desenvolvedor na <a href="https://empresas.serasaexperian.com.br/">Serasa Experian</a>**
 
 <br>
 <p align="left">
